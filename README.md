@@ -2,8 +2,9 @@
 
 ## This repository is designed to help new developers with love for swift to get up and running with the swift programming language in an easy guide. Codes here are written in swift 5. I hope this helps😁
 
- # Contents
- __
+# Contents
+ 
+___
  
  * [Hello World](https://github.com/Sidney-Okine/Getting-Started-With-Swift-Programming-Language/blob/main/Hello_World/Hello_World.md)
  
